@@ -1,0 +1,17 @@
+Program se pokrece pokretanjem fajla gui.py, ali se moze koristiti i u konzoli iako je taj alat namerno onemogucen zbog GUI-ja.
+
+Na pocetku se pojavljuje ekran za logovanje i tu je potrebno uneti ime i prezime osobe.
+
+Posle logovanja pojavljuje se ekran sa sledecim opcijama: Feed, ComboBox za biranje pretrage po autoru ili po tekstu statusa, search bar i dugme search.
+
+Klikom na Feed, prikazuje se zid korisnika, odnosno 10 najrelevantnijih objava za tog korisnika u zavisnosti od afiniteta.
+
+Klikom na Search dugme, u zavisnosti od teksta iz search bara prikazuju se najrelevantnije objave koje sadrze zadate reci ali i u zavisnosti od afiniteta korisnika. 
+
+Da bi se pretrazila fraza, tekst u search baru je potrebno ograniciti navodnicima, kao na primer: "can we get". Klikom na search dugme prikazace se objave sa trazenom frazom.
+
+Svi ORIGINAL fajlovi su vec napravljeni i serijalizovani, vase je samo da pokrenete projekat.
+Neserijalizovani fajlovi su obrisani jer tako projekat ne bi mogao da se okaci na canvas.
+
+Nikola Bandulaja SV74/2022
+23.06.2023.
